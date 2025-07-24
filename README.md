@@ -1,7 +1,7 @@
 # 🎮 CS:GO Map-Winner Prediction – Coursework Project
 
 > **Group assignment uploaded individually**  
-> Authors: Zacharias Johansson, Albatool Sassi, Afia Silva  
+> Authors: Zacharias Johansson, Albatool Sassi, Afia Ibnat Silvi 
 > University Machine-Learning Course (Spring 2025)
 
 ---
